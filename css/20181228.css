@@ -1,0 +1,30 @@
+body{text-align: center;}
+
+
+.head {
+	height: 50px;background-color: #f0eeda;padding: 1em;}
+
+#test {
+	height: 100px;background-color: #c6d9ec;padding: 1em}
+
+#practice {
+	height: 300px;background-color: #c6d9ec;padding: 1em}
+
+#talk {
+	height: 200px;background-color: #0066cc;padding: 1em}
+
+#memo{
+	height: 200px;
+	text-align: left;background-color: #000080;padding: 1em}
+
+#info{
+	height: 200px;
+	text-align: center;background-color: white;padding: 2em;
+}
+
+#me:link{background-color: lightblue;padding: 1em;}
+#me:visited{background-color: #336699;padding: 1em;}
+#me:hover{background-color:#336600;padding: 1em;}
+#me:active{background-color: #330000;padding: 1em;}
+
+td {width:20em;color: white;border: 1px solid #000}
