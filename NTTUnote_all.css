@@ -1,3 +1,20 @@
-body {style="background-color: #c6d9ec;}
+#header {background-color: #264d73;}
 
-#top {text-align: center;}
+body {background-color: #c6d9ec;padding: 1em;}
+
+#top {text-align: center; color: #ffffff;}
+
+.ininside {padding: 1em;} /*調整上距不要是1em*/
+#inside {background-color: white;width: 30em;}
+
+#course {background-color: white;width: 30em;}
+
+#info {background-color: white;width: 30em;}
+
+#about {background-color: white;width: 30em;}
+#aabout{background-color: #ffc2b3;}
+
+
+h3 {background-color: #7094db;color: #ffffff;padding: 1em;width: 10em}
+
+#totop{background-color: #264d73;width: 3em;padding: 3px; color: white;}
