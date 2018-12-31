@@ -13,7 +13,7 @@ body {background-color: #c6d9ec;padding: 1em;}
 
 #about {background-color: white;width: 30em;}
 #aabout{background-color: #ffc2b3;}
-
+/*可直接改ul ol標籤(現在是用整個div)*/
 
 h3 {background-color: #7094db;color: #ffffff;padding: 1em;width: 10em}
 
