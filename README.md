@@ -1,2 +1,64 @@
-# TGSH_DataScienceProject
-台東女中 專題上課筆記
+<!DOCTYPE html>
+<html>
+<head>
+	<title>東大上課筆記 總頁</title>
+	<link rel="stylesheet" type="text/css" href="css/NTTUnote_all.css">
+</head>
+
+<body>
+	<div id="header">
+	<h1 id="top">東大上課筆記</h1>
+	</div>
+
+	<div id="inside">
+	<h3>各日上課筆記</h3>
+	<div id="ininside" class="ininside">
+	<a href="https://wanchen0104.github.io/TGSH_DataScienceProject_WanChen/NTTUnote2018_11_16.html"target="_blank">2018/11/16</a><br>
+	<a href="https://wanchen0104.github.io/TGSH_DataScienceProject_WanChen/NTTUnote2018_11_23.html"target="_blank">2018/11/23</a><br>
+	<a href="https://wanchen0104.github.io/TGSH_DataScienceProject_WanChen/NTTUnote2018_11_30.html"target="_blank">2018/11/30</a><br>
+	<a href="https://wanchen0104.github.io/TGSH_DataScienceProject_WanChen/NTTUnote2018_12_07.html"target="_blank">2018/12/07</a><br>
+	<a href="https://wanchen0104.github.io/TGSH_DataScienceProject_WanChen/NTTUnote2018_12_21.html"target="_blank">2018/12/21</a><br>
+	<a href="https://wanchen0104.github.io/TGSH_DataScienceProject_WanChen/NTTUnote2018_12_28.html"target="_blank">2018/12/28</a><br>
+	<a href="https://wanchen0104.github.io/TGSH_DataScienceProject_WanChen/NTTUnote2018_01_04.html"target="_blank">2018/01/04</a><br><br>
+	</div>
+	</div><hr>
+	
+	<div id="course">
+	<h3>課程整理</h3>
+	<ul>
+	    <li><a href="https://sites.google.com/gm.nttu.edu.tw/datascienceproject-fall-2018/"target="_blank">DataScienceProject-Fall-2018<a/></li>
+	    <li><a href=" https://wanchen0104.github.io/TGSH_DataScienceProject_WanChen/NTTUnote-aboutweb"target="_blank">我的語法備忘錄</a></li>
+	    <li><a href=" https://wanchen0104.github.io/TGSH_DataScienceProject_WanChen/NTTUnote-aboutweb2"target="_blank">我的網頁佈署備忘錄</a></li>
+	    <li><a href="https://wanchen0104.github.io/TGSH_DataScienceProject_WaterAnalysis/WaterAnalysis/information.html"target="_blank">TGSH DataScienceProject WaterAnalysis參考資料頁</a></li>
+	    <br>
+	</ul>
+	</div><hr>
+
+	<div id="info">
+	<h3>參考資料</h3>
+	<ul>
+		<li><a href="https://backlog.com/git-tutorial/tw/intro/intro1_1.html"target="_blank">連猴子都能懂的Git指南</a></li>
+		<li><a href="https://gitbook.tw/chapters/introduction/what-is-git.html"target="_blank">甚麼是Git</a></li>
+		<li><a href="https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/"target="_blank">Git 與 Github 版本控制基本指令與操作入門教學</a></li>
+		<li><a href="https://guides.github.com/"target="_blank">GitHub Guides logo</a></li>
+		<li><a href="https://www.w3schools.com/colors/colors_picker.asp"target="_blank">w3schools colors_picker </a></li>
+		<li><a href="https://openclipart.org/"target="_blank">免費圖片素材</a></li>
+		<li><a href="https://www.cadiis.com.tw/lessons-learned/505-website-nouns-table"target="_blank">網站常用中英文名詞對照表</a></li>
+		<li><a href="http://www.w3school.com.cn/h.asp" target="_blank">W3school HTML 系列教程</a></li>
+		<br>
+	</ul>
+	</div>
+	<hr>
+	
+	<div id="about">
+	<h3 id="aabout">關於</h3>
+	<ul>
+		<li>指導老師:高嘉宏&nbsp;&nbsp;&nbsp;<a href="https://sites.google.com/site/nttuchkao/"target="_blank">nttuchkao</li></a>
+		<li>學生:吳宛蓁 賴凝香</li>
+		<li>網頁製作人:吳宛蓁&nbsp;&nbsp;<a href="mailto:jenny0104.wu@gmail.com">jenny0104.wu@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/WanChen0104"target="_blank">GitHub WanChen0104</a></li>
+		<br>
+	</ul></div><hr>
+
+		<a href="#top" id="totop">To Top</a>
+</body>
+</html>
